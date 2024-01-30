@@ -1,6 +1,15 @@
 #Choice Tree - Level 1
 
 Enter the level 1:
+*note: before every 
+```sh
+cd
+```
+you have to use 
+```sh
+ls
+```
+
 ```sh
 cd 01_choice_tree
 ```
