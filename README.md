@@ -7,6 +7,6 @@ In order to begin the game, create an account in that html page, then complete t
 
 To choose a level, you must enter :
 
-'''sh
+```sh
 cd /home/level
-'''
+```
